@@ -29,7 +29,70 @@ My journey of learning C++, Problem Solving, and Data Structures & Algorithms fr
   - Switch Case
   - Loops
 
+#### Day 3
+- Learned:
+  - Loops (for, while, do-while)
+  - Increment & Decrement Operators
+- Solved practice questions
+- Created and connected GitHub repository
 
+#### Day 4–7
+- Continued C++ practice
+- Solved coding exercises
+- Improved understanding of programming fundamentals
+- Started learning Data Structures & Algorithms (DSA)
+- Built consistency by coding every day
+
+---
+
+## 📚 Topics Covered
+
+- Variables
+- Data Types
+- Input/Output
+- Operators
+- Typecasting
+- Constants
+- If-Else Statements
+- Switch Case
+- Loops
+- Basic Problem Solving
+
+---
+
+## 🛠 Repository Structure
+
+```
+cpp-journey/
+│
+├── Basics/
+├── Operators/
+├── Loops/
+├── Notes/
+└── README.md
+```
+
+---
+
+## 📈 Current Focus
+
+- C++
+- Data Structures & Algorithms
+- Problem Solving
+- Git & GitHub
+- Open Source
+
+---
+
+## 💡 Philosophy
+
+Small improvements repeated consistently lead to extraordinary results.
+
+This repository is not a showcase of expertise.
+
+It is a record of progress.
+
+Started: June 2026 🚀
 
 
 ## Current Status
